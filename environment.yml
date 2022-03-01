@@ -1,0 +1,10 @@
+name: introml
+channels: 
+  - conda-forge
+dependencies: 
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyterlab
+  - statsmodels
